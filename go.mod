@@ -1,4 +1,4 @@
-module grpc_sample
+module gs
 
 go 1.21.6
 

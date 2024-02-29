@@ -1,4 +1,4 @@
-# my_xbc
+# grpc_sample
 
 ### [install]
 - https://grpc.io/docs/languages/go/quickstart/
